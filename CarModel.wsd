@@ -1,0 +1,12 @@
+@startuml
+tittle Car Model 
+class Car{
+    manufacturer
+    Model
+    year
+    color
+
+
+
+}
+@enduml
