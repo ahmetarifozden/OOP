@@ -26,9 +26,7 @@ NYP, yazılım geliştirme dünyasında oldukça önemli bir paradigmadır ve bi
 
 Eğitimimizde dilden bağımsız olarak NYP'nin temel karakteristik özelliklerini inceliyoruz. İlaveten, eğitim tamamen teorik bir çerçeve oturmasını engellemek ve dilden bağımsız bir şekilde nesne yönelimli programlama tekniklerini ifade etmek üzere farklı programlama dillerinde temel karakteristik özelliklerin nasıl yapıldığını uygulayarak öğreniyoruz. 
 
-#### Bu eğitim kimler için hazırlandı?
 
-Arkadaşlar bu eğitimi yazılım dünyasına yeni girmiş ve henüz temel programlama becerilerini yeni kazanmış öğrencilerimiz için hazırladı. Dolasıyla programlama dünyasına yeni giren ve kendini web, mobil, yapay zeka, oyun geliştirme vb... alanlarda geliştirmek isteyen herkese tavsiye ediyorum. 
 
 ## Eğitim İçeriği 
 
@@ -116,13 +114,6 @@ Arkadaşlar bu eğitimi yazılım dünyasına yeni girmiş ve henüz temel progr
 * Sınıf Diyagramı ile Modelleme Örneği
 
 
-## Faydalı Kaynaklar
-1. [Yeni Başlayanlar için Python Programlama](https://www.btkakademi.gov.tr/portal/course/yeni-baslayanlar-icin-python-programlama-26252)
-2. [C# Programlama](https://www.btkakademi.gov.tr/portal/course/c-programlama-26083)
-3. [Algoritma Programlama ve Veri Yapılarına Giriş](https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565)
-4. [C++ ile Programlamaya Giriş](https://www.btkakademi.gov.tr/portal/course/c-ile-programlamaya-giris-20172)
-5. [Java ile Programlamaya Giriş](https://www.btkakademi.gov.tr/portal/course/java-ile-programlamaya-giris-9617)
-
 ## Kullanılan Araçlar
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. [Visual Studio](https://visualstudio.microsoft.com/downloads/)
@@ -132,20 +123,8 @@ Arkadaşlar bu eğitimi yazılım dünyasına yeni girmiş ve henüz temel progr
 6. [C# in Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
 7. [Plant UML](https://plantuml.com/)
 
-# Discord Kanalı
-[Eğitime ait Discord kanalına katılmak için tıklayınız.](https://discord.gg/g2VKE8Sn9w)
 
 # Eğitmen 
 [Doç. Dr. Zafer CÖMERT](http://www.zafercomert.com/)
 
-Samsun Üniversitesi <br />
-Mühendislik Fakültesi <br /> 
-Yazılım Mühendisliği Bölümü
 
-#### Bağlantılar
-
-* [Web](http://www.zafercomert.com/)
-* [Youtube - Virtual Campus](https://www.youtube.com/@virtual.campus)
-* [Twitter](https://twitter.com/dr_zafer_comert)
-* [Linkedin](https://www.linkedin.com/in/zafer-c%C3%B6mert-51000367/)
-* [GitHub](https://github.com/zcomert)
