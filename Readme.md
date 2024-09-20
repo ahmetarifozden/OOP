@@ -1,4 +1,4 @@
-# Ahmet Arif Özden - Nesne Yönelimli Programlama (OOP) Uygulamaları
+# Nesne Yönelimli Programlama (OOP) Uygulamaları
 
 Bu depo, Nesne Yönelimli Programlama (OOP) dersinde öğrendiğim konuları pekiştirmek amacıyla oluşturulmuştur. Eğitim süresince uyguladığım OOP kodlarını burada derlemekteyim. Her bölümde öğrendiklerimi pratiğe dökerek geliştirdiğim projeleri bulabilirsiniz.
 
